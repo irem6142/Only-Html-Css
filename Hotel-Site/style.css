@@ -253,6 +253,12 @@ html{
 	padding: 20px;
 	
 }
+	.navbar a{
+	
+	padding: 10px;
+	margin-left: -20px;
+	
+}
 .teams img{
 	width: 70%;
 }
